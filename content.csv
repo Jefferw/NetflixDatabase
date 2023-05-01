@@ -1,0 +1,12 @@
+﻿content_id,episodeNumber,title,rating,duration,director_id,producer_id,series_id
+1,1,"Red Light, Green Light",TV-MA,61,5,5,2
+2,2,Hell,TV-MA,64,5,5,2
+3,3,The Man with the Umbrella,TV-MA,55,5,5,2
+4,1,"Starting Today, You Are a Host!",TV-PG,30,4,4,6
+5,2,The Job of a High School Host!,TV-PG,30,4,4,6
+6,3,Beware the Physcial Exam,TV-PG,30,4,4,6
+7,1,Dark Skies,PG-13,97,1,1,1
+8,1,Catch Me If You Can,PG-14,142,2,2,3
+9,1,Pineapple Express,R,112,7,7,4
+10,1,Django Unchained,R,165,3,5,5
+11,1,Bo Burnham: Inside,TV-MA,88,6,6,7
